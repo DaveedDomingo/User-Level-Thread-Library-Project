@@ -11,5 +11,5 @@ The latex version for the project writeup is included within the latex folder if
 
 It is recommended to compress the templates when distributing the assignments to students.
 
-- Concepts: Operating Systems, System Calls, Process Signaling
+- Concepts: Operating Systems, Threads, Scheduling
 - Languages: C
